@@ -36,8 +36,8 @@ bing_verify:
 # If there is a sponsor
 sponsor:
   active: true
-  text: "TestBash is returning to San Francisco for its second year! You won't want to miss the only TestBash in the US!  "
-  link: https://ministryoftesting.com/events/testbash-san-francisco-2019
+  text: "Join my webinar with TestCraft on 24th September 2019, where I'll talk about Redefining Test Automation "
+  link: https://www.testcraft.io/redefining-test-automation-webinar/?utm_campaign=Richard%20Bradshaw%20webinar&utm_source=linkedin&utm_medium=social&utm_term=Richard%20Bradshaw%20
   
 # Links to include in footer navigation
 # For external links add external: true
