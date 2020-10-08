@@ -52,6 +52,9 @@ I echo this sentence from Karolina Szczur.
 
 All public speaking engagements take a lot of preparation time, however, I believe this time increases for workshops, tutorials and keynotes. Workshops and tutorials tend to be anything from 2 hours to a full day, that is a lot of time to keep attendees engaged. This requires focusing on the content, designing good activities and thinking about the learning objectives for the attendees. My workshop fee is a minimum of £500 for a half day or less, plus travel and accommodation as listed above. For a tutorial the fee is a minimum of £2500, however, this will vary depending on the fees being charged by your event. Fees for keynotes vary, but I expect to receive a fee if asked to keynote.
 
+## Fees for Online Talks
+With conference moving online due to COVID-19 it's still right to pay speakers for their time. So, if your conference is online and you are charging for attendance, I expect a fee of at least £250 to be offered to all speakers.
+
 ## Workshop and Tutorial Attendance
 **The number of attendees in a workshop and tutorial is decided by me**
 
