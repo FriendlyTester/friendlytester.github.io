@@ -27,7 +27,7 @@ description: "A list of my upcoming and past conference engagements"
           {% endif %}
             <ul class="pricing-table event">
               <li class="title">{{event.name}}</li>
-              <li class="bullet-item"><img class="th-event" src="/images/events/{{event.image}}"></li>
+              <li class="bullet-item"><img class="th-event" src="/images/events/{{event.image}}" alt="{{event.name}}"></li>
               {% if event.enddate == nil %}
                 {% if event.year > 2016 %}
                   <li class="bullet-item">{{ event.startdate | date: "%e %B %Y" }}</li>
